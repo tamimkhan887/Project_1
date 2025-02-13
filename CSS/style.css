@@ -7,7 +7,7 @@ body {
 /* header bg color  */
 header {
     background-color: #FFF8F3;
-    background-image: url("/images/developer.png"), url("/images/header_bg.png");
+    background-image: url("../images/developer.png"), url("../images/header_bg.png");
     background-repeat: no-repeat;
     background-position: 60px, bottom right;
 }
