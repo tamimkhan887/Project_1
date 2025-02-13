@@ -341,7 +341,7 @@ input[type="button"] {
 
 @media screen and (min-width:600px) and (max-width:1200px) {
     header {
-        background-image: url("/images/header_bg.png");
+        background-image: url("../images/header_bg.png");
         background-repeat: no-repeat;
         background-position: bottom right;
         background-size: 50%;
@@ -454,7 +454,7 @@ input[type="button"] {
     }
 
     header {
-        background-image: url("/images/header_bg.png");
+        background-image: url("../images/header_bg.png");
         background-position: bottom;
         background-size: 100%;
     }
